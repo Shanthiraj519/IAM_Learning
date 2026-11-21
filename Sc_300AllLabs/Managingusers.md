@@ -120,16 +120,16 @@ A new employee is joining as an application administrator. Create the user, assi
 ## Screenshots
 
 <!-- Add screenshots to a /screenshots folder and reference them here -->
-- ![User created](<img width="739" height="338" alt="image" src="https://github.com/user-attachments/assets/8606bd0c-c468-415c-a3d6-91ec93d15d51" />
+- ![User created] (<img width="739" height="338" alt="image" src="https://github.com/user-attachments/assets/8606bd0c-c468-415c-a3d6-91ec93d15d51" />
 )
-- ![Application Administrator role assigned](<img width="766" height="251" alt="image" src="https://github.com/user-attachments/assets/d3edcf22-c1b6-4ae5-867c-c7d307be20db" />
+- ![Application Administrator role assigned] (<img width="766" height="251" alt="image" src="https://github.com/user-attachments/assets/d3edcf22-c1b6-4ae5-867c-c7d307be20db" />
 )
-- ![Role removed](<img width="578" height="265" alt="image" src="https://github.com/user-attachments/assets/01fd84e0-e98e-4add-9e0f-ea0bdf1a793f" />
+- ![Role removed]( <img width="578" height="265" alt="image" src="https://github.com/user-attachments/assets/01fd84e0-e98e-4add-9e0f-ea0bdf1a793f" />
 )
 - ![Bulk create](screenshots/04-bulk-create.png)
-- ![User restored](<img width="753" height="234" alt="image" src="https://github.com/user-attachments/assets/49f3aa47-d59a-4b47-bc51-cac7b5b495f9" />
+- ![User restored]( <img width="753" height="234" alt="image" src="https://github.com/user-attachments/assets/49f3aa47-d59a-4b47-bc51-cac7b5b495f9" />
 )
-- ![License assigned](<img width="758" height="233" alt="image" src="https://github.com/user-attachments/assets/703753b5-4ba5-4c2d-a4aa-b67758e980e0" />
+- ![License assigned]( <img width="758" height="233" alt="image" src="https://github.com/user-attachments/assets/703753b5-4ba5-4c2d-a4aa-b67758e980e0" />
 )
 <img width="764" height="292" alt="image" src="https://github.com/user-attachments/assets/710fc016-7e8c-4516-a4ae-22f6bbdc7810" />
 
